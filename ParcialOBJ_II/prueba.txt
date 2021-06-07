@@ -1,0 +1,17 @@
+----------------------------------TIENDA SS------------------------------------
+------------------------------4ta calle antigua---------------------------------
+------------------------------Telefono:7832-0000---------------------------------
+--------------------------------NIT: 293829382-----------------------------------
+No.Compra:144                              Fecha Ingreso:2021-06-07 15:14:01
+No.Factura:10212                           Serie:A
+Nombre:consumidor final
+                                           Empleado:Marta Andrea
+Nit:cf                                         Fecha:2021-06-07
+CNT        Producto            Marca                P/U            SUBT
+3          gaseosa               pepsi                2.00           6.00
+4          galletas               oreo                3.00           12.00
+2          gaseosa               coca cola                1.00           2.00
+                                 Total:20
+                               Efectivo:200
+                               Cambio: 180
+                            GRACIAS POR SU COMPRA
